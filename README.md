@@ -1,4 +1,4 @@
-# qrcode-pub
+# QRCode.Pub
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,96 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-qrcode-pub is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://qrcode.pub/
+QRCode.Pub provides dynamic QR codes that never expire, allowing users to pay once and edit the destination link at any time without subscription. The service offers both free static QR codes and paid dynamic codes with unlimited scans, analytics, and no scan caps. It targets individuals, businesses, and agencies needing flexible QR solutions for menus, flyers, and more.
+
+**Areas:** QRCode · Dynamic · API · Marketing · SaaS
+
+## QRCode.Pub on APIs.io
+
+Everything profiled for QRCode.Pub is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/qrcode-pub/](https://apis.io/providers/qrcode-pub/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [QRCode.Pub API](https://apis.io/apis/qrcode-pub/qrcodepub-api/) — Pay-per-call HTTP tools for AI agents: QR code images, web page extraction, metadata and file hosting.
+- [QRCode.Pub tools for agents Api API](https://apis.io/apis/qrcode-pub/qrcode-pub-tools-for-agents-api-api/) — Pay-per-call HTTP tools for AI agents: QR code images, web page → Markdown extraction, page metadata and 30-day file hosting. Pay per call with USDC — x402…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [QRCode.Pub API Rules](https://apis.io/rules/qrcode-pub/qrcode-pub-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [QRCode.Pub Domain Security](https://apis.io/security/qrcode-pub/qrcode-pub-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://qrcode.pub/)
+- [API reference](https://qrcode.pub/qr-code-api)
+- [Terms of service](https://qrcode.pub/terms)
+- [Privacy policy](https://qrcode.pub/privacy)
+
+## API Evangelist rating
+
+**Kin Score 28.5** — thin · rubric 0.28.0 · scored 2026-11-22
+
+| Facet | Score |
+|---|---|
+| Discoverability | 61.7 |
+| Contract quality | 40.2 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 17.0 |
+
+**Agent readiness 21.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/qrcode-pub/](https://apis.io/providers/qrcode-pub/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for QRCode.Pub: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/qrcode-pub/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
